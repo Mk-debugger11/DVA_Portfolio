@@ -241,7 +241,7 @@ const PROJECTS = [
     title: 'Bank Term Deposit Campaign Analysis',
     description:
       'A segmentation-driven dashboard exploring subscription behavior across jobs, age groups, education, balance bands, contact channels, and previous campaign outcomes.',
-    link: 'https://public.tableau.com/views/Bank_Marketing_Analysis_17773884323250/CUSTOMERSEGMENTATIONSUBSCRIPTIONPROFILE?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link',
+    link: 'https://public.tableau.com/views/Bank_Marketing_Analysis_17778245340560/CUSTOMERSEGMENTATIONSUBSCRIPTIONPROFILE?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link',
     linkLabel: 'Tableau Public',
   },
   {
@@ -250,7 +250,7 @@ const PROJECTS = [
     title: 'Patient Readmission Intelligence',
     description:
       'A healthcare dashboard designed to surface readmission patterns, patient segments, and operational signals for quality-focused review.',
-    link: 'https://public.tableau.com/views/Healthcare_Patient_Readmission_Intelligence/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link',
+    link: 'https://public.tableau.com/views/Healthcare_Patient_Readmission_Intelligence_17778243639100/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link',
     linkLabel: 'Tableau Public',
   },
 ]
