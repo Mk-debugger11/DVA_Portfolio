@@ -94,7 +94,7 @@ function Topbar() {
         <a
           id="link-linkedin"
           className="icon-link"
-          href="https://www.linkedin.com/in/mukul-kumar/"
+          href="https://www.linkedin.com/in/mukul-kumar-a09527314/"
           target="_blank"
           rel="noreferrer"
           aria-label="LinkedIn"
